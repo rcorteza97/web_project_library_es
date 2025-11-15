@@ -73,6 +73,7 @@
   align-items: center;
   justify-content: flex-end;
   box-sizing: border-box;
+  margin-top: auto;
 }
 
 .header__link {
